@@ -34,4 +34,9 @@ $ ./RankingEDAsCEC -i TSP_instance/gr24.tsp
                    -c 3
 ```
 
-installed problem: TSP, QAP, PFSP, LOP, SOP
+installed problem: 
+- traveling salesman problem
+- quadratic assignment problem
+- permutation flow shop problem
+- linear ordering problem
+- sequential ordering problem
